@@ -1,3 +1,6 @@
+This repository tracks my changes and customizations. My working copy of dmenu is on the main branch.
+Upstream changes from git.suckless.org/dmenu are pulled in and merged.
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
